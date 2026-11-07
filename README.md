@@ -62,7 +62,7 @@ Installer Ollama et télécharger les modèles :
 
 ```bash
 ollama pull llama3.2
-ollama pull nomic-embed-text
+ollama pull EmbeddingGemma
 ```
 
 Vérifier qu’Ollama est démarré :
